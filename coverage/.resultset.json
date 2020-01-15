@@ -1,0 +1,92 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/renan/4fun/programming/ror/excel_importer/app/models/company.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/services/import_company_excel.rb": [
+        1,
+        1,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null,
+        8,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        2,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/controllers/application_controller.rb": [
+        0,
+        0
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/renan/4fun/programming/ror/excel_importer/app/helpers/application_helper.rb": [
+        0,
+        0
+      ]
+    },
+    "timestamp": 1579056382
+  }
+}
